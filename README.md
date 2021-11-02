@@ -19,7 +19,7 @@
   
 ##
  
-<!-- <div align="center"> 
-  ![Snake animation](https://github.com/martins86/martins86/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+  ![Snake animation](https://github.com/martins86/martins86/img/github-contribution-grid-snake.svg)
 </div>
- -->
+
