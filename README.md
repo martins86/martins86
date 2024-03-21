@@ -1,11 +1,17 @@
  
 ## Hello World!!!
 
-<div style="display: inline_block" align="left">
-  <a href="https://github.com/martins86" style="text-decoration:none">
+<div align="center" style="display: inline_block">
+ <div>
+  <a href="https://github.com/martins86">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martins86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+ </div>
+ <div>
+  <a href="https://github.com/martins86">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins86&layout=compact&theme=dark"/>
   </a>
+ </div>
 </div>
 
 ##
