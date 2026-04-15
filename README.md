@@ -2,11 +2,15 @@
 
 ###
 
+---
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=martins86&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
